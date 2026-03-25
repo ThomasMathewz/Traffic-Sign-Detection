@@ -24,26 +24,6 @@ The dataset consists of traffic sign images organized into:
 Dataset Link: https://d3ilbtxij3aepc.cloudfront.net/projects/AI-Capstone-Projects/PRAICP-1002-TrafSignDetc.zip
 
 
-
----
-
-## Project Structure
-```
-
-PRAICP-1002-TrafSignDetc/
-│
-├── Train/
-│   ├── 0/
-│   ├── 1/
-│   └── ...
-│
-├── Test/
-├── Meta/
-├── notebook.ipynb
-└── README.md
-
-```
-
 ---
 
 ## Data Preprocessing
